@@ -1,10 +1,10 @@
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Clinton-Abraham}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ravindu2355}/count.svg"/></p> 
 
 
 <div align="center">
 
-![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=Clinton-Abraham&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)
+![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu2355&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)
 
 <p align="center">
    <a href="https://telegram.dog/clinton_abraham"><img src="https://img.shields.io/badge/𝑪𝒍𝒊𝒏𝒕𝒐𝒏 𝑨𝒃𝒓𝒂𝒉𝒂𝒎-30302f?style=flat&logo=telegram" alt="telegram badge"/></a>
@@ -20,7 +20,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/Clinton-Abraham">
+<a href="https://github.com/Ravindu2355">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
 </a>
 </p>
